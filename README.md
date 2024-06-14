@@ -12,8 +12,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### 😂 Random  Meme
+<img src='[https://memer-new.vercel.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Ftehc&psig=AOvVaw37iZeTCqH8f4LDxQCZhI1Z&ust=1718414932555000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCBzs742YYDFQAAAAAdAAAAABAE)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D-spec-sec&icon=5&color=12)](https://visitcount.itsvg.in)
